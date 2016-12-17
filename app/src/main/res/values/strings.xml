@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjetAndroidInF3044EN</string>
+    <string name="nom">nameofstring</string>
+    <string name="button">button</string>
+    <string name="msg">mesagge</string>
+    <string name="rv_biere">rv_biere</string>
+</resources>

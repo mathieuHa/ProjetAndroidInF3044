@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProjetAndroidInF3044FR</string>
+    <string name="nom">nomdeschaines</string>
+    <string name="nombouton">bouton</string>
+    <string name="msg">message</string>
+</resources>
